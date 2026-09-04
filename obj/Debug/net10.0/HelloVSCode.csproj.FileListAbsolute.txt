@@ -1,0 +1,14 @@
+C:\CC-APPSDEV22\HelloVSCode\bin\Debug\net10.0\HelloVSCode.exe
+C:\CC-APPSDEV22\HelloVSCode\bin\Debug\net10.0\HelloVSCode.deps.json
+C:\CC-APPSDEV22\HelloVSCode\bin\Debug\net10.0\HelloVSCode.runtimeconfig.json
+C:\CC-APPSDEV22\HelloVSCode\bin\Debug\net10.0\HelloVSCode.dll
+C:\CC-APPSDEV22\HelloVSCode\bin\Debug\net10.0\HelloVSCode.pdb
+C:\CC-APPSDEV22\HelloVSCode\obj\Debug\net10.0\HelloVSCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\CC-APPSDEV22\HelloVSCode\obj\Debug\net10.0\HelloVSCode.AssemblyInfoInputs.cache
+C:\CC-APPSDEV22\HelloVSCode\obj\Debug\net10.0\HelloVSCode.AssemblyInfo.cs
+C:\CC-APPSDEV22\HelloVSCode\obj\Debug\net10.0\HelloVSCode.csproj.CoreCompileInputs.cache
+C:\CC-APPSDEV22\HelloVSCode\obj\Debug\net10.0\HelloVSCode.dll
+C:\CC-APPSDEV22\HelloVSCode\obj\Debug\net10.0\refint\HelloVSCode.dll
+C:\CC-APPSDEV22\HelloVSCode\obj\Debug\net10.0\HelloVSCode.pdb
+C:\CC-APPSDEV22\HelloVSCode\obj\Debug\net10.0\HelloVSCode.genruntimeconfig.cache
+C:\CC-APPSDEV22\HelloVSCode\obj\Debug\net10.0\ref\HelloVSCode.dll
