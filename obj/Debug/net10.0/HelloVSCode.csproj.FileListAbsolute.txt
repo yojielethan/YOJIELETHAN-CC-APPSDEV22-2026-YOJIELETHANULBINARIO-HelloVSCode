@@ -12,3 +12,4 @@ C:\CC-APPSDEV22\HelloVSCode\obj\Debug\net10.0\refint\HelloVSCode.dll
 C:\CC-APPSDEV22\HelloVSCode\obj\Debug\net10.0\HelloVSCode.pdb
 C:\CC-APPSDEV22\HelloVSCode\obj\Debug\net10.0\HelloVSCode.genruntimeconfig.cache
 C:\CC-APPSDEV22\HelloVSCode\obj\Debug\net10.0\ref\HelloVSCode.dll
+C:\CC-APPSDEV22\HelloVSCode\obj\Debug\net10.0\HelloVSCode.sourcelink.json
